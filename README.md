@@ -1,9 +1,9 @@
 # FloodDetection 
 <br />
-Files:
-- EDA global flood cover data
-- Data preparation
+Files: <br />
+- EDA global flood cover data <br />
+- Data preparation <br />
 - Model <br />
-Data sample:
-- csv files
-- image files from google earth engine layers snap cut
+Data sample: <br />
+- csv files <br />
+- Image files from google earth engine layers snap cut <br />
