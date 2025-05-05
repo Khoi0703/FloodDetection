@@ -1,0 +1,4 @@
+load_from:
+  - python_file:
+      relative_path: pipelines/weather_pipeline.py
+      class_name: WeatherPipeline
